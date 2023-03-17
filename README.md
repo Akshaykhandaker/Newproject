@@ -1,2 +1,2 @@
 # REST API using Java and MySQL
-Springboot
+This project help to parform the courd opration
