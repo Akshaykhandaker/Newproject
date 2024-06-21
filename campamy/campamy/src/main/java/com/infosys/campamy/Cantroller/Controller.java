@@ -71,4 +71,9 @@ public class Controller {
 	{
 		return SS.update(sal, id);
 	}
+	@PutMapping("/update22222222/{sal}/{id}")
+	public String update(@PathVariable int sal,@PathVariable int id)
+	{
+		return SS.update(sal, id);
+	}
 }
